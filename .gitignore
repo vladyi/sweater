@@ -1,6 +1,9 @@
 # target
 target/
 
+# uploads
+uploads/
+
 # .idea files
 .idea/
 *.iml
